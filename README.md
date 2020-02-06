@@ -1,6 +1,6 @@
 # Project Title
 
-This is project is a texts summarizer written in python.   It is designed to generate a summary of rich text.
+This is project is a texts summarizer written in java.   It is designed to generate a summary of rich text.
 
 ## Getting Started
 
@@ -8,7 +8,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
- * Python 3
+ * Java
 
 ```
 Give examples
